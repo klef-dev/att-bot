@@ -20,25 +20,25 @@ friends = [
         "username": "SURNAME.FIRSTNAME",
         "pw": "PASSWORD",
         "regnum": "REG_NO",
-        "date": date_1
+        "service_type": "first"
     },
     {
         "username": "SURNAME.FIRSTNAME",
         "pw": "PASSWORD",
         "regnum": "REG_NO",
-        "date": date_2
+        "service_type": "second"
     },
     {
         "username": "SURNAME.FIRSTNAME",
         "pw": "PASSWORD",
         "regnum": "REG_NO",
-        "date": date_1
+        "service_type": "first"
     },
     {
         "username": "SURNAME.FIRSTNAME",
         "pw": "PASSWORD",
         "regnum": "REG_NO",
-        "date": date_1
+        "service_type": "first"
     },
 ]
 
