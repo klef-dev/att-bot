@@ -138,7 +138,7 @@ class AttBot():
 # def main_task():
 # if check():
 for friend in friends:
-    bot = AttBot(friend["username"], friend["pw"], friend["date"])
+    bot = AttBot(friend["username"], friend["pw"], friend["service_type"])
     bot.login()
     if bot.error == False:
         bot.book()
